@@ -6,7 +6,7 @@ After seeing yet another [tech demo](https://github.com/scailable/sclbl-tutorial
 
 ## Data 
 
-The data used in this research can be found [here](https://insights.stackoverflow.com/survey/). We've used the 2019 data and placed the `survey_results_public.csv` file in the data folder of this project. 
+The data used in this research can be found [here](https://insights.stackoverflow.com/survey/). We've used the 2019 data and placed the `survey_results_public.csv` file in the data folder of this project. If you want to reproduce this work you'll need to do this step manually. 
 
 ## Goal 
 
